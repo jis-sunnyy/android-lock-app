@@ -1,0 +1,8 @@
+com.lockapp:string/accessibility_description = 0x7f030000
+com.lockapp:xml/device_admin = 0x7f040001
+com.lockapp:drawable/ic_launcher_background = 0x7f010000
+com.lockapp:mipmap/ic_launcher_round = 0x7f020001
+com.lockapp:drawable/ic_launcher_foreground = 0x7f010001
+com.lockapp:mipmap/ic_launcher = 0x7f020000
+com.lockapp:xml/accessibility_service = 0x7f040000
+com.lockapp:drawable/ic_launcher_monochrome = 0x7f010002

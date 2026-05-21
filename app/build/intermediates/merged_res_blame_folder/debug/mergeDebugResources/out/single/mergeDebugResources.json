@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.lockapp-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.lockapp-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/xml_accessibility_service.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/xml/accessibility_service.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/xml_device_admin.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/xml/device_admin.xml"
+    },
+    {
+        "merged": "com.lockapp-debug-4:/xml_accessibility_service.xml.flat",
+        "source": "com.lockapp-main-6:/xml/accessibility_service.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "com.lockapp-debug-4:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "com.lockapp-main-6:/drawable/ic_launcher_monochrome.xml"
+    }
+]

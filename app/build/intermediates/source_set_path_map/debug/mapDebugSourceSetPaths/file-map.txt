@@ -1,0 +1,7 @@
+com.lockapp-pngs-0 /Users/jissunny/Desktop/Projects/Lock-App/app/build/generated/res/pngs/debug
+com.lockapp-resValues-1 /Users/jissunny/Desktop/Projects/Lock-App/app/build/generated/res/resValues/debug
+com.lockapp-packageDebugResources-2 /Users/jissunny/Desktop/Projects/Lock-App/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.lockapp-packageDebugResources-3 /Users/jissunny/Desktop/Projects/Lock-App/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.lockapp-debug-4 /Users/jissunny/Desktop/Projects/Lock-App/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.lockapp-debug-5 /Users/jissunny/Desktop/Projects/Lock-App/app/src/debug/res
+com.lockapp-main-6 /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/res

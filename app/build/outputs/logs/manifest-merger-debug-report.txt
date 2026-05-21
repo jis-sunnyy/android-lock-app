@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:4:5-31:19
+INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:4:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:7:9-29
+	android:roundIcon
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:6:9-54
+	android:icon
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:5:9-43
+	android:theme
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:8:9-55
+activity#com.lockapp.MainActivity
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:10:9-17:20
+	android:exported
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:15:27-74
+service#com.lockapp.LockService
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:19:9-29:19
+	android:exported
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:21:13-36
+	android:permission
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:22:13-79
+	android:name
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:20:13-40
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:23:13-25:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:24:17-92
+	android:name
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:24:25-89
+meta-data#android.accessibilityservice
+ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:26:13-28:65
+	android:resource
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:28:17-62
+	android:name
+		ADDED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:27:17-60
+uses-sdk
+INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml

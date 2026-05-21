@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lockapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:4:5-31:19
+12        android:debuggable="true"
+13        android:extractNativeLibs="false"
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:5:9-43
+15        android:label="Lock"
+15-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:7:9-29
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:6:9-54
+17        android:theme="@android:style/Theme.NoDisplay" >
+17-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:8:9-55
+18        <activity
+18-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:10:9-17:20
+19            android:name="com.lockapp.MainActivity"
+19-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:11:13-41
+20            android:exported="true" >
+20-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:12:13-36
+21            <intent-filter>
+21-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:13:13-16:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:14:17-69
+22-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:15:17-77
+24-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:15:27-74
+25            </intent-filter>
+26        </activity>
+27
+28        <service
+28-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:19:9-29:19
+29            android:name="com.lockapp.LockService"
+29-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:20:13-40
+30            android:exported="true"
+30-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:21:13-36
+31            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+31-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:22:13-79
+32            <intent-filter>
+32-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:23:13-25:29
+33                <action android:name="android.accessibilityservice.AccessibilityService" />
+33-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:24:17-92
+33-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:24:25-89
+34            </intent-filter>
+35
+36            <meta-data
+36-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:26:13-28:65
+37                android:name="android.accessibilityservice"
+37-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:27:17-60
+38                android:resource="@xml/accessibility_service" />
+38-->/Users/jissunny/Desktop/Projects/Lock-App/app/src/main/AndroidManifest.xml:28:17-62
+39        </service>
+40    </application>
+41
+42</manifest>
