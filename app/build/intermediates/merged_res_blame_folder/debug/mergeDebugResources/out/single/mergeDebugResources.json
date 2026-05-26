@@ -1,42 +1,114 @@
 [
     {
-        "merged": "com.lockapp-debug-4:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.lockapp-main-6:/drawable/ic_launcher_foreground.xml"
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/xml_accessibility_service.xml.flat",
-        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/xml/accessibility_service.xml"
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/xml_device_admin.xml.flat",
-        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/xml/device_admin.xml"
+        "merged": "com.lockapp-debug-4:/drawable_lock_black.png.flat",
+        "source": "com.lockapp-main-6:/drawable/lock_black.png"
     },
     {
-        "merged": "com.lockapp-debug-4:/xml_accessibility_service.xml.flat",
-        "source": "com.lockapp-main-6:/xml/accessibility_service.xml"
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/ic_launcher_foreground.xml"
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_lock_white.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/lock_white.png"
     },
     {
         "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable-night_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable-night/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable-night_ic_launcher_background.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable-night/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/ic_launcher_background.xml"
     },
     {
         "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_ic_launcher_monochrome.xml.flat",
         "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/ic_launcher_monochrome.xml"
     },
     {
-        "merged": "com.lockapp-debug-4:/drawable_ic_launcher_monochrome.xml.flat",
-        "source": "com.lockapp-main-6:/drawable/ic_launcher_monochrome.xml"
+        "merged": "com.lockapp-debug-4:/drawable_lock_white.png.flat",
+        "source": "com.lockapp-main-6:/drawable/lock_white.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/xml_device_admin.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/xml/device_admin.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/drawable_lock_black.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/drawable/lock_black.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/xml_accessibility_service.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/xml/accessibility_service.xml"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jissunny/.gradle/daemon/8.10.2/com.lockapp-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
     }
 ]
